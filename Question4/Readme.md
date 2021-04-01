@@ -4,7 +4,7 @@ This program was created with Visual Studio Code using the programming language 
 
 The Unit Test in this program is available in the file test/Question4Test.cpp. The syntax was made to work using the google test suite and it was compiled with cmake using the visual studio 2017 kit. 
 
-TO be able to test you have to clone the goole test suit with the following command:
-	git clone https://github.com/google/googletest.git
+To be able to test you have to clone the goole test suit with the following command:
+	`git clone https://github.com/google/googletest.git`
 
-The Unit test was tested in VScode, running all the test with ctrl + shift + p -> CMake: Run Tests
+The Unit test was tested in VScode, running all the test with `ctrl + shift + p` -> `CMake: Run Tests`
