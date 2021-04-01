@@ -4,7 +4,7 @@ The sequence of commands to determine the structure is:
 
 1- bq
 
-2- rel<ABC>
+2- `rel<ABC>`
   
 3- di
 
